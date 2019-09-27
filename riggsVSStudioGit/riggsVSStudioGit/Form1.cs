@@ -16,5 +16,10 @@ namespace riggsVSStudioGit
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            int a = 3;
+        }
     }
 }
